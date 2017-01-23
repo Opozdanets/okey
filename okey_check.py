@@ -3,7 +3,10 @@ import re
 
 
 prodcut_urls = ['https://www.okeydostavka.ru/spb1/kofe-molotyi-lavatstsa-krem-gusto-250g-pach-619107-parent-20', \
-          'https://www.okeydostavka.ru/spb1/bumaga-tual-zewa-plius-romashka-2sl-4sht--451580-parent-20']
+          'https://www.okeydostavka.ru/spb1/bumaga-tual-zewa-plius-romashka-2sl-4sht--451580-parent-20',\
+'https://www.okeydostavka.ru/spb1/bumaga-tual-zewa-plius-romashka-2sl-12sht-543100-parent-20',\
+                'https://www.okeydostavka.ru/spb1/podguzniki-pampers-active-baby-dry-junior-87-744964-parent-20',\
+                'https://www.okeydostavka.ru/spb1/podguzniki-pampers-active-baby-dzhunior-11-25kg-58sht-395999-parent-20']
 
 product_info = []
 for r in prodcut_urls:
